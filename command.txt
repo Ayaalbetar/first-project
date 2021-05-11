@@ -1,0 +1,6 @@
+1- git clone https://github.com/Ayaalbetar/first-project.git
+2- git status
+3-  git add .
+4- git commit -m "create a new file"
+5- git branch
+6- git push origin main
